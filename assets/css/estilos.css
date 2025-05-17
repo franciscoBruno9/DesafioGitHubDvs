@@ -42,3 +42,7 @@ h1{
   font-weight: 900 !important;
   font-style: oblique !important;
 }
+
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
