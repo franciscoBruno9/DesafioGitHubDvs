@@ -37,3 +37,8 @@ body {
   }
 
 }
+
+h1{
+  font-weight: 900 !important;
+  font-style: oblique !important;
+}
